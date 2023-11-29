@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Level'ini Unlock Etmek"
 date:   2023-02-19 19:31:00 +0300
 categories: dil

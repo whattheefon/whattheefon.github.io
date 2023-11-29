@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Sosyal Medya Döneminde Dilimiz"
 date:   2022-11-09 23:04:00 +0300
 categories: dil

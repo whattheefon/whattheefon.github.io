@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Genişletilmiş Latin"
 date:   2023-05-31 03:00:00 +0300
 categories: dil

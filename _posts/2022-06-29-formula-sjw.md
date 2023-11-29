@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Formula SJW"
 date:   2022-06-29 21:36:00 +0300
 categories: formula

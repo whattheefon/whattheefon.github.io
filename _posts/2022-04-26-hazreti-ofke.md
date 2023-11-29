@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Hazreti Öfke"
 date:   2022-04-26 12:08:00 +0300
 categories: genel
