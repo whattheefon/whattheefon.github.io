@@ -1,8 +1,8 @@
 ---
-layout: posts
+layout: post
 title:  "Hazreti Öfke"
 date:   2022-04-26 12:08:00 +0300
-categories: genel
+tags: genel
 ---
 
 Bunca yıl öfkeden beslendim, yaşamımın kaynağını bundan aldım. Müziğimi bundan yarattım, bunla besledim. Yaşamdan kaçışım hep haklı öfkemi distopyalarıma yansıtmak üzerindeydi.

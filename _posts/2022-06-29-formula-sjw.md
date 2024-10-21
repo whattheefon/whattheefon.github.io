@@ -1,8 +1,8 @@
 ---
-layout: posts
+layout: post
 title:  "Formula SJW"
 date:   2022-06-29 21:36:00 +0300
-categories: formula
+tags: formula
 ---
 
 Geçtiğimiz günlerde Formula 1 dünyasında gündem olan iki olay meydana geldi. İlki, Estonyalı F2 sürücüsü, Red Bull genç sürücü programı üyesi Jüri Vips'in bir Twitch yayınında N kelimesini kullanmıştı. Jüri Vips bu olay sonrasında Red Bull genç sürücü programından çıkarıldı. Daha gürültü koparan olay ise 3 kez dünya şampiyonu olmuş eski pilot Nelson Piquet'nin 1 yıl önceki röportajında  Lewis Hamilton'a dair ırkçı diye tanımlanan sözler etmesi oldu. Olayın ardından F1 resmi hesabı ve F1 komünitesi olayı kınadı ve Lewis Hamilton'a destek mesajları yayınladı. Hamilton'ın takım arkadaşı George Russell ise Lewis Hamilton'ın pist içi ve pist dışında bu spor için diğer herhangi bir sürücüden daha fazlasını yaptığını söyledi. Bu olayları şu şekilde yorumladım.

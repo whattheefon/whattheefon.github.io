@@ -1,8 +1,8 @@
 ---
-layout: posts
+layout: post
 title:  "Level'ini Unlock Etmek"
 date:   2023-02-19 19:31:00 +0300
-categories: dil
+tags: dil
 ---
 
 Bazı çelişkiler güzeldir. Bu çelişkilerimden biri de dille ilgili. Dün bir arkadaşımın doğum gününü kutlarken "30. levelini unlock ettik" demiştim. Öte yandan da sözgelimi Red Pill hakkında görüş bildirecek olsam ben bunu Kırmızı Hap şeklinde ifade ederdim diye düşünüyordum. Peki bu çelişki değil miydi? Bana göre bunlar çelişki değil.

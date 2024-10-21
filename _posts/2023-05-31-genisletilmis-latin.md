@@ -1,8 +1,8 @@
 ---
-layout: posts
+layout: post
 title:  "Genişletilmiş Latin"
 date:   2023-05-31 03:00:00 +0300
-categories: dil
+tags: dil
 ---
 
 Adakale; Tuna üzerinde bulunan, Rumeli Türkiyesinde eski ve köklü bir Türknüfuslu ada. Günümüzde Romanya Sırbistan sınırında bulunuyor ve 1970te yapılan barajdan ötürü haritadan silinmiş. Adakale ile ilgili daha fazla bilgi [buradan](https://www.fotokart.shop/blog/tunadaki-son-hatiramiz-adakale/) bulunabilir ancak ben başka bir konuyla ilgileneceğim. Ben, bilhassa Anatolya Türkçesinin, Emperyal Türkçe döneminde Arapyazılı olmayan bir biçimde yazılması konusuyla epey bir ilgiliyimdir.

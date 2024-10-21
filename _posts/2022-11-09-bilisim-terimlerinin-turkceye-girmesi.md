@@ -1,8 +1,8 @@
 ---
-layout: posts
+layout: post
 title:  "Bilişim Terimlerinin Türkçe'ye Girmesi Sürecindeki Sorunlar"
 date:   2022-11-09 23:09:00 +0300
-categories: dil
+tags: dil
 ---
 
 _2021 yılında, Türkçe dersi sonsınavı için yazdığım iki kompozisyondan ikincisidir._

@@ -1,8 +1,8 @@
 ---
-layout: posts
+layout: post
 title:  "Altimuray'dan Efon'a"
 date:   2022-04-26 00:00:00 +0300
-categories: genel
+tags: genel
 ---
 
 Bilenler bilir, [Altimuray](https://altimuray.blogspot.com) adında bir ağgüncem vardı, 2009'dan bu yana bu takma adla şiir ve düzyazılarımla duygularımı paylaşıyordum. 2009 yılında, o zamana kadar hor gördüğüm edebiyat dersinde, eski Türkçe ile yazılan basit hece ölçülü ve uyaklı şiirlere denk geldim ve önceki yılın konularının aksine bu biçemi oldukça benimsedim. Öte yandan 2009 kendimi tanıma yolculuğumda önemli bir kavşak var olmuştu, düşüncelerim ve duygularım dengeli bir bireşimle bir araya gelip yeni bir beni var etmişti. Dil sevgim, Opeth dinlemeye yeni yeni başlamam, gökyüzüne ilgimin oluşması, doğa hayranlığım bir noktada birleşmişti ve 29 Haziran 2009'da bir gece balkonda gördüğüm Ay'ın bana hissettirdiklerini İlk Dördün ile kağıda aktarmıştım. Türk halk koşuğundaki son dörtlükte takma adını belirtme geleneğine uygun olarak kendime Altimuray dedim. Altimuray 3 parçadan oluşan bir sözcük: Al, Timur ve Ay.

@@ -1,8 +1,8 @@
 ---
-layout: posts
+layout: post
 title:  "Evvela Sosyalist Olmalı?"
 date:   2022-11-05 14:36:00 +0300
-categories: ataturk
+tags: ataturk
 ---
 
 ![](/assets/img/evvela_sosyalist_olmali.jpg)

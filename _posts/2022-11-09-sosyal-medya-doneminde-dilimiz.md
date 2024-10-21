@@ -1,8 +1,8 @@
 ---
-layout: posts
+layout: post
 title:  "Sosyal Medya Döneminde Dilimiz"
 date:   2022-11-09 23:04:00 +0300
-categories: dil
+tags: dil
 ---
 
 _2021 yılında, Türkçe dersi sonsınavı için yazdığım iki kompozisyondan ilkidir. İnternet gençliğinin yabancı sözcükleri dile sokarak dili bozduğu iddiasına karşı bir sav geliştirmeye çalıştım._

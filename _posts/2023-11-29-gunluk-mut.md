@@ -1,8 +1,8 @@
 ---
-layout: posts
+layout: post
 title:  "Günlük Mut"
 date:   2023-11-29 23:00:00 +0300
-categories: ilerlemecilik
+tags: ilerlemecilik
 ---
 
 |日/月 | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
