@@ -7,3 +7,6 @@
 #
 layout: home
 ---
+
+# Latest Posts
+

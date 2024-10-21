@@ -26,7 +26,9 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
-# - jekyll-sitemap
+ - jekyll-sitemap
+
+permalink: /:title/
 
 rss: rss
 
@@ -42,6 +44,18 @@ titles_from_headings:
 defaults:
   - scope:
       path: ""
-      type: post
+      type: posts
     values:
-      tags: Other
+      layout: post
+      tags: genel
+  - scope:
+      path: ''
+      type: post_tags
+    values:
+      permalink: "/tags/:name/"
+      layout: tag
+
+collections:
+  post_tags:
+    permalink: /tags/:name/
+    output: true
